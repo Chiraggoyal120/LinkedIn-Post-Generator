@@ -8,7 +8,7 @@ Original file is located at
 """
 
 # 1. Install libraries
-!pip install gradio aiohttp python-dotenv
+pip install gradio aiohttp python-dotenv
 
 # 2. Set your OpenRouter API key
 import os
